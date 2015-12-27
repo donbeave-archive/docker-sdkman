@@ -1,4 +1,4 @@
-FROM docker.avocado.media/oracle-server-jre:8u65
+FROM docker.avocado.media/oracle-jdk
 
 MAINTAINER Alexey Zhokhov <alexey@zhokhov.com>
 

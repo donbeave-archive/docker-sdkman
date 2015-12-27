@@ -1,4 +1,4 @@
-FROM docker.avocado.media/oracle-jdk
+FROM donbeave/oracle-jdk
 
 MAINTAINER Alexey Zhokhov <alexey@zhokhov.com>
 
